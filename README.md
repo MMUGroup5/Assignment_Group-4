@@ -12,3 +12,5 @@ Report
 Google Excel :https://docs.google.com/spreadsheets/d/1fI2fDVDmsCRDwbXGIX4PG4DsCN51k-zZqOdX8Qe9J8w/edit#gid=0
 <br>
 Track the Performance
+
+YouTube Assignment01 Brief: [https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G](https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G)
