@@ -17,3 +17,6 @@ Google Excel :https://docs.google.com/spreadsheets/d/1fI2fDVDmsCRDwbXGIX4PG4DsCN
 Track the Performance
 
 YouTube Assignment01 Brief: [https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G](https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G)
+
+<br>
+Figma Design:https://www.figma.com/design/cvGUGyWji0CCGzxMCunZod/ASS02?node-id=0-1&t=vbBrw3qCKrsKVXE3-0
