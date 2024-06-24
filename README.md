@@ -21,5 +21,6 @@ Track the Performance
 
 YouTube Assignment01 Brief: [https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G](https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G)
 
-<br>
 Figma Design:https://www.figma.com/design/cvGUGyWji0CCGzxMCunZod/ASS02?node-id=0-1&t=vbBrw3qCKrsKVXE3-0
+
+Design Pattern: Bridge , Lect 11 - page 38-46
