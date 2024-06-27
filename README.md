@@ -10,6 +10,8 @@ Meeting 02 - 11/6/2024 9:00pm - 10:00pm
 Meeting 03 - 20/6/2024 9:00pm - 10:00pm
 <br>
 Meeting 04 - 24/6/2024 10:00pm - 11:00pm
+<br>
+Meeting 05 - 25/6/2024 10:00am - 11:00am
 
 Microsoft Word:https://mmuedumy-my.sharepoint.com/:w:/r/personal/1231302444_student_mmu_edu_my/Documents/C%20CP6224%20-%20Object%20Oriented%20Analysis%20and%20Design.docx?d=wc6534ec7b3c64b82a75f35cc6a0f4609&csf=1&web=1&e=mWEZTb
 <br>
