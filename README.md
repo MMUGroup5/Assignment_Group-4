@@ -26,3 +26,25 @@ YouTube Assignment01 Brief: [https://youtu.be/gSbLapJ1okk?si=yIhSurfBK5J36u2G](h
 Figma Design:https://www.figma.com/design/cvGUGyWji0CCGzxMCunZod/ASS02?node-id=0-1&t=vbBrw3qCKrsKVXE3-0
 
 Design Pattern: Bridge , Lect 11 - page 38-46
+
+# Billing System
+University Management System developed in JavaSwing.
+<hr>
+
+## Basic Introduction
+This is the  university semester project. This software is developed in JavaSwing language and  use Data Text file for databases. 
+The implementation provides a  fee calculation with discounts for different course levels and a combined case, with potential for future enhancements to make the system more flexible and adaptable.
+Same goes with my Previous Univerisity Semester Project " Under Assignment 1-2java.
+<hr>
+
+### Admin Panel
+![AdminPanel](https://github.com/user-attachments/assets/0f0e9e7b-8d83-4928-9ed7-76e3a7483094)
+<hr>
+
+### Select Course Panel
+![image](https://github.com/user-attachments/assets/6e97d8a3-6575-4eb7-b515-a6367ff0a898)
+<hr>
+
+### Hostel Panel
+![image](https://github.com/user-attachments/assets/2ca13599-5084-4dfc-9829-0a82bf172419)
+<hr>
