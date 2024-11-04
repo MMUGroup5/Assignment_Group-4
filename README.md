@@ -46,5 +46,5 @@ Same goes with my Previous Univerisity Semester Project " Under Assignment 1-2ja
 <hr>
 
 ### Hostel Panel
-![image](https://github.com/user-attachments/assets/2ca13599-5084-4dfc-9829-0a82bf172419)
+![hp](https://github.com/user-attachments/assets/c2172c71-96d0-4502-815f-1b1f926e237f)
 <hr>
