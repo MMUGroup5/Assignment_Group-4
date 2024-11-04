@@ -38,7 +38,7 @@ Same goes with my Previous Univerisity Semester Project " Under Assignment 1-2ja
 <hr>
 
 ### Admin Panel
-![AdminPanel](https://github.com/user-attachments/assets/0f0e9e7b-8d83-4928-9ed7-76e3a7483094)
+![ad](https://github.com/user-attachments/assets/7342fab8-f8b0-47bd-b4dd-93c5c2a85f59)
 <hr>
 
 ### Select Course Panel
