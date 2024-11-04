@@ -42,7 +42,7 @@ Same goes with my Previous Univerisity Semester Project " Under Assignment 1-2ja
 <hr>
 
 ### Select Course Panel
-![image](https://github.com/user-attachments/assets/6e97d8a3-6575-4eb7-b515-a6367ff0a898)
+![sc](https://github.com/user-attachments/assets/f0889cb2-ce9f-4231-ba3d-8ec6e336b6ae)
 <hr>
 
 ### Hostel Panel
